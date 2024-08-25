@@ -48,5 +48,5 @@ This repository is an activity for a University Compilers class. I'm a student, 
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the (LICENSE)[https://github.com/ginozza/is_it_digit/blob/main/LICENSE] file for details.
 
